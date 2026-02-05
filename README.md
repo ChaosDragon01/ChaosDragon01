@@ -1,34 +1,48 @@
-## Hi there 👋
+## Hi there, Check out my LinkedIn too :D
 
-## 📂 My Projects
 
-### Recent Projects
-- **[strawbears](https://github.com/ChaosDragon01/strawbears)** - Python project
-- **[Meta_IG-FB_Data_Visualization](https://github.com/ChaosDragon01/Meta_IG-FB_Data_Visualization)** - Data visualization for Meta/Instagram/Facebook
-- **[NetLogAnalyzer](https://github.com/ChaosDragon01/NetLogAnalyzer)** ⭐ - Network log analysis tool
+# Projects
+### InfoSec
+- **[NetLogAnalyzer](https://github.com/ChaosDragon01/NetLogAnalyzer)**: Python, JS, JSON, CSV, WireShark
+    - Network log analysis tool
+    - Collabed Project
+- **[RBAC](https://github.com/ChaosDragon01/RBAC)**: Java
+    - Role-Based Access Control implementation
+    - Did not get the chance to complete it yet. 
+### Discord Bots
+- **[Strawbears](https://github.com/ChaosDragon01/strawbears)**: Python, Discord.py, MongoDB.
+    - Initially created for a Community Server Bot, However I plan to streamline the Code into more template for initializing a bot without coding it. 2/4/2026
+### Applications
+- **[messaging_Wapp](https://github.com/ChaosDragon01/messaging_Wapp)**: Python, Flask, JSON, CSB, JS, CSS, HTML
+    - Messaging web application
+    - Planning to create a new Database for this project based on MongoDB 2/4/2026
 
-### Academic & Course Work
+
+
+
+
+
+
+
+
+
+## Academic & Course Work
 - **[Cryptology-Cryptography](https://github.com/ChaosDragon01/Cryptology-Cryptography)** - For Crypto and Cryptography Class (Python)
 - **[OS](https://github.com/ChaosDragon01/OS)** - Operating systems homeworks, CSCI 375 (C++)
 - **[DataStructures](https://github.com/ChaosDragon01/DataStructures)** - CSCI 373 coursework
 - **[CSCI272](https://github.com/ChaosDragon01/CSCI272)** - CSCI 272 coursework (C++)
+- **[Algorithms](https://github.com/ChaosDragon01/Algorithms)** - Algorithm implementations
 - **[class_work](https://github.com/ChaosDragon01/class_work)** - General class work repository
 
-### Development & Programming
-- **[Algorithms](https://github.com/ChaosDragon01/Algorithms)** - Algorithm implementations
-- **[python](https://github.com/ChaosDragon01/python)** - Python projects and exercises
-- **[c-cplusplus](https://github.com/ChaosDragon01/c-cplusplus)** - C and C++ projects
-- **[economy_simulator](https://github.com/ChaosDragon01/economy_simulator)** - Economy simulation (C++)
 
-### Applications & Tools
-- **[messaging_Wapp](https://github.com/ChaosDragon01/messaging_Wapp)** - Messaging web application (Python)
-- **[RBAC](https://github.com/ChaosDragon01/RBAC)** - Role-Based Access Control implementation
+## Projects on Concept
+Projects under this tab are things I've thought of but didn't get the time to plan or start yet. 
+- **[Meta_IG-FB_Data_Visualization](https://github.com/ChaosDragon01/Meta_IG-FB_Data_Visualization)** - React Native, JS. 
+    - Data visualization for Meta/Instagram/Facebook. Project Stil in Planning Stages.
+- **[Economy_simulator](https://github.com/ChaosDragon01/economy_simulator)** - Flutter 
+    - meant to be a video game which simulates supply and demand markets
+    - Due to lack of manpower I didn't start it yet. 
 
-### Collaboration & Other
-- **[Collaboration](https://github.com/ChaosDragon01/Collaboration)** - Collaborative projects (Python)
-- **[Projects](https://github.com/ChaosDragon01/Projects)** - General projects repository
-- **[Copy-of-CodePath-PreWork](https://github.com/ChaosDragon01/Copy-of-CodePath-PreWork)** - CodePath pre-work exercises
-
-<!--
-**ChaosDragon01/ChaosDragon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Development
+- **[python](https://github.com/ChaosDragon01/python)** - Python exercise grounds.
+- **[c-cplusplus](https://github.com/ChaosDragon01/c-cplusplus)** - C++ shenanigans
