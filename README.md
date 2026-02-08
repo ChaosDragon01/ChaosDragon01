@@ -5,13 +5,12 @@
 ### 
 - **[NetLogAnalyzer](https://github.com/ChaosDragon01/NetLogAnalyzer)**: **Python, JS, JSON, CSV, WireShark**
     - Network log analysis tool
-    - in-progress
-- **[RBAC](https://github.com/ChaosDragon01/RBAC)**: **Java, Spring-Boot(maven), MongoDB, HTML/CSS/JS**
+    - Collabed Project
+- **[RBAC](https://github.com/ChaosDragon01/RBAC)**: Java
     - Role-Based Access Control implementation
-    - Based on RBAC Protol, for Database Management. 
-
+    - Did not get the chance to complete it yet. 
 ### Discord Bots
-- **[Strawbears](https://github.com/ChaosDragon01/strawbears)**: **Python, Discord.py, MongoDB.**
+- **[Strawbears](https://github.com/ChaosDragon01/strawbears)**: Python, Discord.py, MongoDB.
     - Initially created for a Community Server Bot, However I plan to streamline the Code into more template for initializing a bot without coding it. 2/4/2026
 ### Web Applications
 - **[messaging_Wapp](https://github.com/ChaosDragon01/messaging_Wapp)**: **Python, Flask, JSON, CSB, JS, CSS, HTML, MongoDB**
