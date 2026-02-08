@@ -2,20 +2,21 @@
 
 
 # Projects
-### InfoSec
-- **[NetLogAnalyzer](https://github.com/ChaosDragon01/NetLogAnalyzer)**: Python, JS, JSON, CSV, WireShark
+### 
+- **[NetLogAnalyzer](https://github.com/ChaosDragon01/NetLogAnalyzer)**: **Python, JS, JSON, CSV, WireShark**
     - Network log analysis tool
-    - Collabed Project
-- **[RBAC](https://github.com/ChaosDragon01/RBAC)**: Java
+    - in-progress
+- **[RBAC](https://github.com/ChaosDragon01/RBAC)**: **Java, Spring-Boot(maven), MongoDB, HTML/CSS/JS**
     - Role-Based Access Control implementation
-    - Did not get the chance to complete it yet. 
+    - Based on RBAC Protol, for Database Management. 
+
 ### Discord Bots
-- **[Strawbears](https://github.com/ChaosDragon01/strawbears)**: Python, Discord.py, MongoDB.
+- **[Strawbears](https://github.com/ChaosDragon01/strawbears)**: **Python, Discord.py, MongoDB.**
     - Initially created for a Community Server Bot, However I plan to streamline the Code into more template for initializing a bot without coding it. 2/4/2026
-### Applications
-- **[messaging_Wapp](https://github.com/ChaosDragon01/messaging_Wapp)**: Python, Flask, JSON, CSB, JS, CSS, HTML
+### Web Applications
+- **[messaging_Wapp](https://github.com/ChaosDragon01/messaging_Wapp)**: **Python, Flask, JSON, CSB, JS, CSS, HTML, MongoDB**
     - Messaging web application
-    - Planning to create a new Database for this project based on MongoDB 2/4/2026
+    - Possible Migration to PostGre. 
 
 
 
