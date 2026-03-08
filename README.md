@@ -1,5 +1,3 @@
-# Hi there, I'm ChaosDragon01 👋
-
 I'm a Computer Science and Information Security & Forensics student passionate about bridging the gap between low-level systems, modern web architecture, and cybersecurity. I enjoy building high-performance engines, exploring digital forensics, and developing secure, full-stack applications.
 
 ### Languages & Tools
