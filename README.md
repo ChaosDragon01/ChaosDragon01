@@ -1,5 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ChaosDragon01&style=for-the-badge&color=blue)
 ### 🛠️ Languages & Tools
-
 **Systems & Backend** 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,4 +23,3 @@
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChaosDragon01&style=for-the-badge&color=blue)
